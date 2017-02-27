@@ -1,2 +1,2 @@
 # python_simple
-tttt
+简单Python基础介绍
